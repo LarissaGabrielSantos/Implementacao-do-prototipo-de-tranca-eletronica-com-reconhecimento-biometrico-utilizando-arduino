@@ -398,11 +398,26 @@ Este projeto demonstrou com sucesso a viabilidade de um sistema de tranca eletr�
 - [Referencial teórico 2 em vídeo](https://youtu.be/ShHY6fP8Ax4?si=tbCFqrn6GTRYPifq)
 
 ## Projeto Desenvolvido Por
-Gabriel Alves Campos  
-Guilherme de Araujo Nunes  
-Larissa Gabriel dos Santos  
-Leonardo Correia de Lima  
-Ryan Costa Ferreira  
+
+ - Gabriel Alves Campos
+[Linkedin](https://www.linkedin.com/in/gabriel-alves-campos-30045b2a3/)
+
+- Guilherme de Araujo Nunes
+[Linkedin](https://www.linkedin.com)
+
+- Larissa Gabriel dos Santos
+[Linkedin]( https://www.linkedin.com/in/larissa-gabriel-dos-santos/)
+[Github]( https://github.com/LarissaGabrielSantos)
+
+- Leonardo Correia de Lima
+[Linkedin](https://www.linkedin.com/in/leonardo-lima-4a4491104/)
+[Github]( https://github.com/Leonardo-C-Lima)
+
+- Ryan Costa Ferreira
+[Linkedin]( https://www.linkedin.com/in/ryan-costa-a304b2189/)
+[Github]( https://github.com/RyanCos)
+
+
 
 
 2024.1
