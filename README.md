@@ -402,8 +402,8 @@ Este projeto demonstrou com sucesso a viabilidade de um sistema de tranca eletr√
  - Gabriel Alves Campos |
 [Linkedin](https://www.linkedin.com/in/gabriel-alves-campos-30045b2a3/) |
 
-- Guilherme de Araujo Nunes
-[Linkedin](https://www.linkedin.com)
+- Guilherme de Araujo Nunes |
+[Github](https://github.com/onunis)
 
 - Larissa Gabriel dos Santos |
 [Linkedin]( https://www.linkedin.com/in/larissa-gabriel-dos-santos/) |
