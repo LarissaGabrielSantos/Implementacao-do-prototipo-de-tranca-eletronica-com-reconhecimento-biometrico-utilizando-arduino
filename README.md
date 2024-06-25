@@ -1,13 +1,5 @@
 # Projeto de Tranca Eletrônica com Reconhecimento Biométrico
 
-Gabriel Alves Campos  
-Guilherme de Araujo Nunes  
-Larissa Gabriel dos Santos  
-Leonardo Correia de Lima  
-Ryan Costa Ferreira  
-
-2024.1  
-Rio de Janeiro/RJ  
 
 ![Projeto de Tranca Eletrônica](https://user-images.githubusercontent.com/your-image.png)
 
@@ -412,4 +404,8 @@ Guilherme de Araujo Nunes
 Larissa Gabriel dos Santos  
 Leonardo Correia de Lima  
 Ryan Costa Ferreira  
-Universidade Estácio de Sá, Rio de Janeiro/RJ
+
+
+2024.1
+Rio de Janeiro, RJ
+Universidade Estácio de Sá
