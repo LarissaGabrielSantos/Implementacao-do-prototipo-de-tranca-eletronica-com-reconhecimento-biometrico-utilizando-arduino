@@ -1,8 +1,6 @@
 # Projeto de Tranca Eletrônica com Reconhecimento Biométrico
 
 
-![Projeto de Tranca Eletrônica](https://user-images.githubusercontent.com/your-image.png)
-
 ## Índice
 1. [Introdução](#introdução)
 2. [Apresentação do Projeto](#apresentação-do-projeto)
@@ -40,7 +38,7 @@ Este projeto foi apresentado para a empresa interessada na tranca eletrônica (P
 - 1 x Bateria de 12V e 5 Ampères-hora
 
 ## Diagrama de Circuito
-![Diagrama de Circuito](https://user-images.githubusercontent.com/your-diagram.png)
+![Diagrama de Circuito](https://github.com/LarissaGabrielSantos/A-implementacao-do-prototipo-de-tranca-eletronica-com-reconhecimento-biometrico-utilizando-arduino/blob/6f6128ea528791deac08686ff6fc203ece794fa6/Diagrama%20de%20representa%C3%A7%C3%A3o/Esquema%20Tranca%20eletr%C3%B4nica.jpg)
 
 ## Montagem do Hardware
 1. **Conexão do Sensor Biométrico ao Arduino**:
@@ -190,7 +188,7 @@ int getFingerprintIDez() {
   return finger.fingerID;
 }
 ```
-### Enrolamento Digital
+### Cadastro de Digital
 ```cpp
 #include <LiquidCrystal_I2C.h>
 #include <Adafruit_Fingerprint.h>
@@ -388,7 +386,7 @@ uint8_t getFingerprintEnroll() {
 O sistema foi testado exaustivamente para garantir seu funcionamento adequado. Foram realizados testes com múltiplas impressões digitais para verificar a precisão e confiabilidade do reconhecimento biométrico.
 
 ## Fotos do Projeto Apresentado
-![Foto do Projeto](https://user-images.githubusercontent.com/your-photo.png)
+![Foto do Projeto](https://github.com/LarissaGabrielSantos/A-implementacao-do-prototipo-de-tranca-eletronica-com-reconhecimento-biometrico-utilizando-arduino/tree/6f6128ea528791deac08686ff6fc203ece794fa6/Fotos%20do%20Projeto)
 
 ## Conclusão
 Este projeto demonstrou com sucesso a viabilidade de um sistema de tranca eletrônica utilizando reconhecimento biométrico. O protótipo criado é seguro, eficiente e de baixo custo, apresentando um potencial considerável para aplicações residenciais e comerciais.
@@ -396,7 +394,8 @@ Este projeto demonstrou com sucesso a viabilidade de um sistema de tranca eletr�
 ## Referências
 - [Documentação da Biblioteca Adafruit Fingerprint Sensor](https://learn.adafruit.com/adafruit-optical-fingerprint-sensor)
 - [Arduino Uno Documentation](https://www.arduino.cc/en/Main/ArduinoBoardUno)
-- [Como Usar o Sensor de Impressão Digital com Arduino](https://www.instructables.com/id/How-to-Use-Fingerprint-Sensor-With-Arduino/)
+- [Referencial teórico em vídeo](https://youtu.be/0JLc3o6sTMY?si=_ZKMQ7MBn1XEpm4R)
+- [Referencial teórico 2 em vídeo](https://youtu.be/ShHY6fP8Ax4?si=tbCFqrn6GTRYPifq)
 
 ## Projeto Desenvolvido Por
 Gabriel Alves Campos  
